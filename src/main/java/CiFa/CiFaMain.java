@@ -96,7 +96,7 @@ public class CiFaMain {
                 || dfaNodeName.indexOf("index_tail")!=-1
         )
             return "number";
-        return "error!";
+        return "ErrorClass";
     }
 
     /*

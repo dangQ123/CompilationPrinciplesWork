@@ -25,7 +25,7 @@
 4 keyword if
 4 limiter (
 4 identifier a
-4 error! >=
+4 operator >
 4 identifier b
 4 limiter )
 4 keyword return

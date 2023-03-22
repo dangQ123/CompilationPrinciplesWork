@@ -106,8 +106,8 @@
 # statement function type identifier ( parameters ) { if ( term 
 0 3 11 30 60 108 163 230 305 267 331 66 
 # statement function type identifier ( parameters ) { if ( expression 
-0 3 11 30 60 108 163 230 305 267 331 66 134 
-# statement function type identifier ( parameters ) { if ( expression >= 
+0 3 11 30 60 108 163 230 305 267 331 66 132 
+# statement function type identifier ( parameters ) { if ( expression > 
 0 3 11 30 60 108 163 230 305 267 331 66 127 
 # statement function type identifier ( parameters ) { if ( expression operator 
 0 3 11 30 60 108 163 230 305 267 331 66 127 71 

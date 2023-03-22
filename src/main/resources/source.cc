@@ -1,7 +1,7 @@
 int a = 3+2i , b = 4 , c = 2.45e+55 ;
 
 function int max ( int a , int b ) {
-    if ( a >= b ) return a ;
+    if ( a > b ) return a ;
     else return b ;
 }
 function double min ( int A , int B ) {
