@@ -1,0 +1,61 @@
+sstart:start
+start:statements
+statements:statement
+statements:statement statements
+statement:declaration
+statement:function_declaration
+statement:assignment
+statement:loop
+statement:conditional
+statement:function_call
+statement:return expression ;
+statement:break ;
+statement:scanf ( identifier ) ;
+statement:print ( expression ) ;
+declaration:type identifier ;
+declaration:type identifier = expression ;
+declaration:type identifier = expression , declaration
+declaration:assignment , declaration
+declaration:assignment ;
+declaration:identifier ;
+type:int
+type:double
+function_declaration:function type identifier ( parameters ) { statements }
+function_declaration:function type identifier ( ) { statements }
+parameters:parameter
+parameters:parameter , parameters
+parameter:type identifier
+assignment:identifier = expression ;
+assignment:type identifier = expression ;
+assignment:identifier = expression
+loop:for_loop
+loop:while_loop
+for_loop:for ( assignment condition ; assignment ) { statements }
+while_loop:while ( condition ) { statements }
+for_loop:for ( assignment condition ; assignment ) statements
+while_loop:while ( condition ) statements
+conditional:if ( condition ) statement
+conditional:if ( condition ) statement else statement
+function_call:function identifier ( arguments ) ;
+arguments:argument
+arguments:argument , arguments
+argument:expression
+expression:term
+expression:term operator term
+expression:function_call
+operator:+
+operator:-
+operator:*
+operator:/
+operator:>
+operator:<
+operator:>=
+operator:<=
+term:factor
+term:factor operator factor
+term:factor operator factor
+factor:number
+factor:( expression )
+factor:identifier
+condition:expression
+condition:expression operator expression

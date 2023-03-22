@@ -1,0 +1,824 @@
+0 
+# 
+0 6 
+# int 
+0 5 
+# type 
+0 5 25 
+# type identifier 
+0 5 25 47 
+# type identifier = 
+0 5 25 47 96 
+# type identifier = number 
+0 5 25 47 95 
+# type identifier = factor 
+0 5 25 47 94 
+# type identifier = term 
+0 5 25 47 93 
+# type identifier = expression 
+0 5 25 47 93 151 
+# type identifier = expression , 
+0 5 25 47 93 151 51 
+# type identifier = expression , identifier 
+0 5 25 47 93 151 51 102 
+# type identifier = expression , identifier = 
+0 5 25 47 93 151 51 102 96 
+# type identifier = expression , identifier = number 
+0 5 25 47 93 151 51 102 95 
+# type identifier = expression , identifier = factor 
+0 5 25 47 93 151 51 102 94 
+# type identifier = expression , identifier = term 
+0 5 25 47 93 151 51 102 157 
+# type identifier = expression , identifier = expression 
+0 5 25 47 93 151 50 
+# type identifier = expression , assignment 
+0 5 25 47 93 151 50 26 
+# type identifier = expression , assignment , 
+0 5 25 47 93 151 50 26 51 
+# type identifier = expression , assignment , identifier 
+0 5 25 47 93 151 50 26 51 102 
+# type identifier = expression , assignment , identifier = 
+0 5 25 47 93 151 50 26 51 102 96 
+# type identifier = expression , assignment , identifier = number 
+0 5 25 47 93 151 50 26 51 102 95 
+# type identifier = expression , assignment , identifier = factor 
+0 5 25 47 93 151 50 26 51 102 94 
+# type identifier = expression , assignment , identifier = term 
+0 5 25 47 93 151 50 26 51 102 157 
+# type identifier = expression , assignment , identifier = expression 
+0 5 25 47 93 151 50 26 50 
+# type identifier = expression , assignment , assignment 
+0 5 25 47 93 151 50 26 50 27 
+# type identifier = expression , assignment , assignment ; 
+0 5 25 47 93 151 50 26 48 
+# type identifier = expression , assignment , declaration 
+0 5 25 47 93 151 220 
+# type identifier = expression , declaration 
+0 4 
+# declaration 
+0 3 
+# statement 
+0 3 11 
+# statement function 
+0 3 11 6 
+# statement function int 
+0 3 11 30 
+# statement function type 
+0 3 11 30 60 
+# statement function type identifier 
+0 3 11 30 60 108 
+# statement function type identifier ( 
+0 3 11 30 60 108 6 
+# statement function type identifier ( int 
+0 3 11 30 60 108 165 
+# statement function type identifier ( type 
+0 3 11 30 60 108 165 232 
+# statement function type identifier ( type identifier 
+0 3 11 30 60 108 164 
+# statement function type identifier ( parameter 
+0 3 11 30 60 108 164 231 
+# statement function type identifier ( parameter , 
+0 3 11 30 60 108 164 231 6 
+# statement function type identifier ( parameter , int 
+0 3 11 30 60 108 164 231 165 
+# statement function type identifier ( parameter , type 
+0 3 11 30 60 108 164 231 165 232 
+# statement function type identifier ( parameter , type identifier 
+0 3 11 30 60 108 164 231 164 
+# statement function type identifier ( parameter , parameter 
+0 3 11 30 60 108 164 231 306 
+# statement function type identifier ( parameter , parameters 
+0 3 11 30 60 108 163 
+# statement function type identifier ( parameters 
+0 3 11 30 60 108 163 230 
+# statement function type identifier ( parameters ) 
+0 3 11 30 60 108 163 230 305 
+# statement function type identifier ( parameters ) { 
+0 3 11 30 60 108 163 230 305 267 
+# statement function type identifier ( parameters ) { if 
+0 3 11 30 60 108 163 230 305 267 331 
+# statement function type identifier ( parameters ) { if ( 
+0 3 11 30 60 108 163 230 305 267 331 71 
+# statement function type identifier ( parameters ) { if ( identifier 
+0 3 11 30 60 108 163 230 305 267 331 68 
+# statement function type identifier ( parameters ) { if ( factor 
+0 3 11 30 60 108 163 230 305 267 331 67 
+# statement function type identifier ( parameters ) { if ( term 
+0 3 11 30 60 108 163 230 305 267 331 66 
+# statement function type identifier ( parameters ) { if ( expression 
+0 3 11 30 60 108 163 230 305 267 331 66 134 
+# statement function type identifier ( parameters ) { if ( expression >= 
+0 3 11 30 60 108 163 230 305 267 331 66 127 
+# statement function type identifier ( parameters ) { if ( expression operator 
+0 3 11 30 60 108 163 230 305 267 331 66 127 71 
+# statement function type identifier ( parameters ) { if ( expression operator identifier 
+0 3 11 30 60 108 163 230 305 267 331 66 127 68 
+# statement function type identifier ( parameters ) { if ( expression operator factor 
+0 3 11 30 60 108 163 230 305 267 331 66 127 87 
+# statement function type identifier ( parameters ) { if ( expression operator term 
+0 3 11 30 60 108 163 230 305 267 331 66 127 189 
+# statement function type identifier ( parameters ) { if ( expression operator expression 
+0 3 11 30 60 108 163 230 305 267 331 413 
+# statement function type identifier ( parameters ) { if ( condition 
+0 3 11 30 60 108 163 230 305 267 331 413 465 
+# statement function type identifier ( parameters ) { if ( condition ) 
+0 3 11 30 60 108 163 230 305 267 331 413 465 528 
+# statement function type identifier ( parameters ) { if ( condition ) return 
+0 3 11 30 60 108 163 230 305 267 331 413 465 528 40 
+# statement function type identifier ( parameters ) { if ( condition ) return identifier 
+0 3 11 30 60 108 163 230 305 267 331 413 465 528 37 
+# statement function type identifier ( parameters ) { if ( condition ) return factor 
+0 3 11 30 60 108 163 230 305 267 331 413 465 528 36 
+# statement function type identifier ( parameters ) { if ( condition ) return term 
+0 3 11 30 60 108 163 230 305 267 331 413 465 528 569 
+# statement function type identifier ( parameters ) { if ( condition ) return expression 
+0 3 11 30 60 108 163 230 305 267 331 413 465 528 569 619 
+# statement function type identifier ( parameters ) { if ( condition ) return expression ; 
+0 3 11 30 60 108 163 230 305 267 331 413 465 513 
+# statement function type identifier ( parameters ) { if ( condition ) statement 
+0 3 11 30 60 108 163 230 305 267 331 413 465 513 558 
+# statement function type identifier ( parameters ) { if ( condition ) statement else 
+0 3 11 30 60 108 163 230 305 267 331 413 465 513 558 269 
+# statement function type identifier ( parameters ) { if ( condition ) statement else return 
+0 3 11 30 60 108 163 230 305 267 331 413 465 513 558 269 40 
+# statement function type identifier ( parameters ) { if ( condition ) statement else return identifier 
+0 3 11 30 60 108 163 230 305 267 331 413 465 513 558 269 37 
+# statement function type identifier ( parameters ) { if ( condition ) statement else return factor 
+0 3 11 30 60 108 163 230 305 267 331 413 465 513 558 269 36 
+# statement function type identifier ( parameters ) { if ( condition ) statement else return term 
+0 3 11 30 60 108 163 230 305 267 331 413 465 513 558 269 332 
+# statement function type identifier ( parameters ) { if ( condition ) statement else return expression 
+0 3 11 30 60 108 163 230 305 267 331 413 465 513 558 269 332 414 
+# statement function type identifier ( parameters ) { if ( condition ) statement else return expression ; 
+0 3 11 30 60 108 163 230 305 267 331 413 465 513 558 599 
+# statement function type identifier ( parameters ) { if ( condition ) statement else statement 
+0 3 11 30 60 108 163 230 305 266 
+# statement function type identifier ( parameters ) { conditional 
+0 3 11 30 60 108 163 230 305 254 
+# statement function type identifier ( parameters ) { statement 
+0 3 11 30 60 108 163 230 305 374 
+# statement function type identifier ( parameters ) { statements 
+0 3 11 30 60 108 163 230 305 374 438 
+# statement function type identifier ( parameters ) { statements } 
+0 3 10 
+# statement function_declaration 
+0 3 3 
+# statement statement 
+0 3 3 11 
+# statement statement function 
+0 3 3 11 7 
+# statement statement function double 
+0 3 3 11 30 
+# statement statement function type 
+0 3 3 11 30 60 
+# statement statement function type identifier 
+0 3 3 11 30 60 108 
+# statement statement function type identifier ( 
+0 3 3 11 30 60 108 6 
+# statement statement function type identifier ( int 
+0 3 3 11 30 60 108 165 
+# statement statement function type identifier ( type 
+0 3 3 11 30 60 108 165 232 
+# statement statement function type identifier ( type identifier 
+0 3 3 11 30 60 108 164 
+# statement statement function type identifier ( parameter 
+0 3 3 11 30 60 108 164 231 
+# statement statement function type identifier ( parameter , 
+0 3 3 11 30 60 108 164 231 6 
+# statement statement function type identifier ( parameter , int 
+0 3 3 11 30 60 108 164 231 165 
+# statement statement function type identifier ( parameter , type 
+0 3 3 11 30 60 108 164 231 165 232 
+# statement statement function type identifier ( parameter , type identifier 
+0 3 3 11 30 60 108 164 231 164 
+# statement statement function type identifier ( parameter , parameter 
+0 3 3 11 30 60 108 164 231 306 
+# statement statement function type identifier ( parameter , parameters 
+0 3 3 11 30 60 108 163 
+# statement statement function type identifier ( parameters 
+0 3 3 11 30 60 108 163 230 
+# statement statement function type identifier ( parameters ) 
+0 3 3 11 30 60 108 163 230 305 
+# statement statement function type identifier ( parameters ) { 
+0 3 3 11 30 60 108 163 230 305 267 
+# statement statement function type identifier ( parameters ) { if 
+0 3 3 11 30 60 108 163 230 305 267 331 
+# statement statement function type identifier ( parameters ) { if ( 
+0 3 3 11 30 60 108 163 230 305 267 331 71 
+# statement statement function type identifier ( parameters ) { if ( identifier 
+0 3 3 11 30 60 108 163 230 305 267 331 68 
+# statement statement function type identifier ( parameters ) { if ( factor 
+0 3 3 11 30 60 108 163 230 305 267 331 67 
+# statement statement function type identifier ( parameters ) { if ( term 
+0 3 3 11 30 60 108 163 230 305 267 331 66 
+# statement statement function type identifier ( parameters ) { if ( expression 
+0 3 3 11 30 60 108 163 230 305 267 331 66 133 
+# statement statement function type identifier ( parameters ) { if ( expression < 
+0 3 3 11 30 60 108 163 230 305 267 331 66 127 
+# statement statement function type identifier ( parameters ) { if ( expression operator 
+0 3 3 11 30 60 108 163 230 305 267 331 66 127 71 
+# statement statement function type identifier ( parameters ) { if ( expression operator identifier 
+0 3 3 11 30 60 108 163 230 305 267 331 66 127 68 
+# statement statement function type identifier ( parameters ) { if ( expression operator factor 
+0 3 3 11 30 60 108 163 230 305 267 331 66 127 87 
+# statement statement function type identifier ( parameters ) { if ( expression operator term 
+0 3 3 11 30 60 108 163 230 305 267 331 66 127 189 
+# statement statement function type identifier ( parameters ) { if ( expression operator expression 
+0 3 3 11 30 60 108 163 230 305 267 331 413 
+# statement statement function type identifier ( parameters ) { if ( condition 
+0 3 3 11 30 60 108 163 230 305 267 331 413 465 
+# statement statement function type identifier ( parameters ) { if ( condition ) 
+0 3 3 11 30 60 108 163 230 305 267 331 413 465 528 
+# statement statement function type identifier ( parameters ) { if ( condition ) return 
+0 3 3 11 30 60 108 163 230 305 267 331 413 465 528 40 
+# statement statement function type identifier ( parameters ) { if ( condition ) return identifier 
+0 3 3 11 30 60 108 163 230 305 267 331 413 465 528 37 
+# statement statement function type identifier ( parameters ) { if ( condition ) return factor 
+0 3 3 11 30 60 108 163 230 305 267 331 413 465 528 36 
+# statement statement function type identifier ( parameters ) { if ( condition ) return term 
+0 3 3 11 30 60 108 163 230 305 267 331 413 465 528 569 
+# statement statement function type identifier ( parameters ) { if ( condition ) return expression 
+0 3 3 11 30 60 108 163 230 305 267 331 413 465 528 569 619 
+# statement statement function type identifier ( parameters ) { if ( condition ) return expression ; 
+0 3 3 11 30 60 108 163 230 305 267 331 413 465 513 
+# statement statement function type identifier ( parameters ) { if ( condition ) statement 
+0 3 3 11 30 60 108 163 230 305 267 331 413 465 513 558 
+# statement statement function type identifier ( parameters ) { if ( condition ) statement else 
+0 3 3 11 30 60 108 163 230 305 267 331 413 465 513 558 269 
+# statement statement function type identifier ( parameters ) { if ( condition ) statement else return 
+0 3 3 11 30 60 108 163 230 305 267 331 413 465 513 558 269 40 
+# statement statement function type identifier ( parameters ) { if ( condition ) statement else return identifier 
+0 3 3 11 30 60 108 163 230 305 267 331 413 465 513 558 269 37 
+# statement statement function type identifier ( parameters ) { if ( condition ) statement else return factor 
+0 3 3 11 30 60 108 163 230 305 267 331 413 465 513 558 269 36 
+# statement statement function type identifier ( parameters ) { if ( condition ) statement else return term 
+0 3 3 11 30 60 108 163 230 305 267 331 413 465 513 558 269 332 
+# statement statement function type identifier ( parameters ) { if ( condition ) statement else return expression 
+0 3 3 11 30 60 108 163 230 305 267 331 413 465 513 558 269 332 414 
+# statement statement function type identifier ( parameters ) { if ( condition ) statement else return expression ; 
+0 3 3 11 30 60 108 163 230 305 267 331 413 465 513 558 599 
+# statement statement function type identifier ( parameters ) { if ( condition ) statement else statement 
+0 3 3 11 30 60 108 163 230 305 266 
+# statement statement function type identifier ( parameters ) { conditional 
+0 3 3 11 30 60 108 163 230 305 254 
+# statement statement function type identifier ( parameters ) { statement 
+0 3 3 11 30 60 108 163 230 305 374 
+# statement statement function type identifier ( parameters ) { statements 
+0 3 3 11 30 60 108 163 230 305 374 438 
+# statement statement function type identifier ( parameters ) { statements } 
+0 3 3 10 
+# statement statement function_declaration 
+0 3 3 3 
+# statement statement statement 
+0 3 3 3 11 
+# statement statement statement function 
+0 3 3 3 11 6 
+# statement statement statement function int 
+0 3 3 3 11 30 
+# statement statement statement function type 
+0 3 3 3 11 30 60 
+# statement statement statement function type identifier 
+0 3 3 3 11 30 60 108 
+# statement statement statement function type identifier ( 
+0 3 3 3 11 30 60 108 166 
+# statement statement statement function type identifier ( ) 
+0 3 3 3 11 30 60 108 166 233 
+# statement statement statement function type identifier ( ) { 
+0 3 3 3 11 30 60 108 166 233 6 
+# statement statement statement function type identifier ( ) { int 
+0 3 3 3 11 30 60 108 166 233 256 
+# statement statement statement function type identifier ( ) { type 
+0 3 3 3 11 30 60 108 166 233 256 322 
+# statement statement statement function type identifier ( ) { type identifier 
+0 3 3 3 11 30 60 108 166 233 256 322 395 
+# statement statement statement function type identifier ( ) { type identifier ; 
+0 3 3 3 11 30 60 108 166 233 255 
+# statement statement statement function type identifier ( ) { declaration 
+0 3 3 3 11 30 60 108 166 233 254 
+# statement statement statement function type identifier ( ) { statement 
+0 3 3 3 11 30 60 108 166 233 254 7 
+# statement statement statement function type identifier ( ) { statement double 
+0 3 3 3 11 30 60 108 166 233 254 256 
+# statement statement statement function type identifier ( ) { statement type 
+0 3 3 3 11 30 60 108 166 233 254 256 322 
+# statement statement statement function type identifier ( ) { statement type identifier 
+0 3 3 3 11 30 60 108 166 233 254 256 322 395 
+# statement statement statement function type identifier ( ) { statement type identifier ; 
+0 3 3 3 11 30 60 108 166 233 254 255 
+# statement statement statement function type identifier ( ) { statement declaration 
+0 3 3 3 11 30 60 108 166 233 254 254 
+# statement statement statement function type identifier ( ) { statement statement 
+0 3 3 3 11 30 60 108 166 233 254 254 7 
+# statement statement statement function type identifier ( ) { statement statement double 
+0 3 3 3 11 30 60 108 166 233 254 254 256 
+# statement statement statement function type identifier ( ) { statement statement type 
+0 3 3 3 11 30 60 108 166 233 254 254 256 322 
+# statement statement statement function type identifier ( ) { statement statement type identifier 
+0 3 3 3 11 30 60 108 166 233 254 254 256 322 396 
+# statement statement statement function type identifier ( ) { statement statement type identifier = 
+0 3 3 3 11 30 60 108 166 233 254 254 256 322 396 96 
+# statement statement statement function type identifier ( ) { statement statement type identifier = number 
+0 3 3 3 11 30 60 108 166 233 254 254 256 322 396 95 
+# statement statement statement function type identifier ( ) { statement statement type identifier = factor 
+0 3 3 3 11 30 60 108 166 233 254 254 256 322 396 94 
+# statement statement statement function type identifier ( ) { statement statement type identifier = term 
+0 3 3 3 11 30 60 108 166 233 254 254 256 322 396 454 
+# statement statement statement function type identifier ( ) { statement statement type identifier = expression 
+0 3 3 3 11 30 60 108 166 233 254 254 256 322 396 454 498 
+# statement statement statement function type identifier ( ) { statement statement type identifier = expression ; 
+0 3 3 3 11 30 60 108 166 233 254 254 257 
+# statement statement statement function type identifier ( ) { statement statement assignment 
+0 3 3 3 11 30 60 108 166 233 254 254 254 
+# statement statement statement function type identifier ( ) { statement statement statement 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 
+# statement statement statement function type identifier ( ) { statement statement statement for 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 
+# statement statement statement function type identifier ( ) { statement statement statement for ( 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 6 
+# statement statement statement function type identifier ( ) { statement statement statement for ( int 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 64 
+# statement statement statement function type identifier ( ) { statement statement statement for ( type 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 64 125 
+# statement statement statement function type identifier ( ) { statement statement statement for ( type identifier 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 64 125 185 
+# statement statement statement function type identifier ( ) { statement statement statement for ( type identifier = 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 64 125 185 38 
+# statement statement statement function type identifier ( ) { statement statement statement for ( type identifier = number 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 64 125 185 37 
+# statement statement statement function type identifier ( ) { statement statement statement for ( type identifier = factor 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 64 125 185 36 
+# statement statement statement function type identifier ( ) { statement statement statement for ( type identifier = term 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 64 125 185 252 
+# statement statement statement function type identifier ( ) { statement statement statement for ( type identifier = expression 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 64 125 185 252 319 
+# statement statement statement function type identifier ( ) { statement statement statement for ( type identifier = expression ; 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 40 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment identifier 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 37 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment factor 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 121 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment term 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 120 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment expression 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 120 133 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment expression < 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 120 174 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment expression operator 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 120 174 38 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment expression operator number 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 120 174 37 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment expression operator factor 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 120 174 36 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment expression operator term 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 120 174 244 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment expression operator expression 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 242 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; identifier 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 242 311 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; identifier = 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 242 311 388 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; identifier = identifier 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 242 311 385 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; identifier = factor 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 242 311 384 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; identifier = term 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 242 311 384 77 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; identifier = term + 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 242 311 384 443 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; identifier = term operator 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 242 311 384 443 386 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; identifier = term operator number 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 242 311 384 443 491 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; identifier = term operator factor 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 242 311 384 443 490 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; identifier = term operator term 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 242 311 383 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; identifier = expression 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 555 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; assignment 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 555 597 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; assignment ) 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 555 597 634 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; assignment ) { 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 555 597 634 267 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; assignment ) { if 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 555 597 634 267 331 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; assignment ) { if ( 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 555 597 634 267 331 71 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; assignment ) { if ( identifier 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 555 597 634 267 331 68 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; assignment ) { if ( factor 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 555 597 634 267 331 67 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; assignment ) { if ( term 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 555 597 634 267 331 66 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; assignment ) { if ( expression 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 555 597 634 267 331 66 133 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; assignment ) { if ( expression < 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 555 597 634 267 331 66 127 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; assignment ) { if ( expression operator 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 555 597 634 267 331 66 127 69 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; assignment ) { if ( expression operator number 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 555 597 634 267 331 66 127 68 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; assignment ) { if ( expression operator factor 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 555 597 634 267 331 66 127 87 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; assignment ) { if ( expression operator term 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 555 597 634 267 331 66 127 189 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; assignment ) { if ( expression operator expression 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 555 597 634 267 331 413 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; assignment ) { if ( condition 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 555 597 634 267 331 413 465 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; assignment ) { if ( condition ) 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 555 597 634 267 331 413 465 529 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; assignment ) { if ( condition ) break 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 555 597 634 267 331 413 465 529 570 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; assignment ) { if ( condition ) break ; 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 555 597 634 267 331 413 465 513 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; assignment ) { if ( condition ) statement 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 555 597 634 267 331 413 465 513 558 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; assignment ) { if ( condition ) statement else 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 555 597 634 267 331 413 465 513 558 258 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; assignment ) { if ( condition ) statement else identifier 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 555 597 634 267 331 413 465 513 558 258 325 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; assignment ) { if ( condition ) statement else identifier = 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 555 597 634 267 331 413 465 513 558 258 325 406 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; assignment ) { if ( condition ) statement else identifier = identifier 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 555 597 634 267 331 413 465 513 558 258 325 403 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; assignment ) { if ( condition ) statement else identifier = factor 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 555 597 634 267 331 413 465 513 558 258 325 402 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; assignment ) { if ( condition ) statement else identifier = term 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 555 597 634 267 331 413 465 513 558 258 325 402 77 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; assignment ) { if ( condition ) statement else identifier = term + 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 555 597 634 267 331 413 465 513 558 258 325 402 457 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; assignment ) { if ( condition ) statement else identifier = term operator 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 555 597 634 267 331 413 465 513 558 258 325 402 457 406 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; assignment ) { if ( condition ) statement else identifier = term operator identifier 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 555 597 634 267 331 413 465 513 558 258 325 402 457 502 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; assignment ) { if ( condition ) statement else identifier = term operator factor 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 555 597 634 267 331 413 465 513 558 258 325 402 457 501 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; assignment ) { if ( condition ) statement else identifier = term operator term 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 555 597 634 267 331 413 465 513 558 258 325 401 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; assignment ) { if ( condition ) statement else identifier = expression 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 555 597 634 267 331 413 465 513 558 258 325 401 456 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; assignment ) { if ( condition ) statement else identifier = expression ; 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 555 597 634 267 331 413 465 513 558 257 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; assignment ) { if ( condition ) statement else assignment 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 555 597 634 267 331 413 465 513 558 599 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; assignment ) { if ( condition ) statement else statement 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 555 597 634 266 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; assignment ) { conditional 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 555 597 634 254 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; assignment ) { statement 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 555 597 634 656 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; assignment ) { statements 
+0 3 3 3 11 30 60 108 166 233 254 254 254 263 329 411 463 509 555 597 634 656 676 
+# statement statement statement function type identifier ( ) { statement statement statement for ( assignment condition ; assignment ) { statements } 
+0 3 3 3 11 30 60 108 166 233 254 254 254 262 
+# statement statement statement function type identifier ( ) { statement statement statement for_loop 
+0 3 3 3 11 30 60 108 166 233 254 254 254 261 
+# statement statement statement function type identifier ( ) { statement statement statement loop 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 
+# statement statement statement function type identifier ( ) { statement statement statement statement 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 6 
+# statement statement statement function type identifier ( ) { statement statement statement statement int 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 
+# statement statement statement function type identifier ( ) { statement statement statement statement type 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 96 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = number 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 95 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = factor 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 94 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = term 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 454 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = expression 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 454 499 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = expression , 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 454 499 400 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = expression , identifier 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 454 499 400 102 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = expression , identifier = 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 454 499 400 102 97 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = expression , identifier = ( 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 454 499 400 102 97 70 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = expression , identifier = ( ( 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 454 499 400 102 97 70 69 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = expression , identifier = ( ( number 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 454 499 400 102 97 70 68 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = expression , identifier = ( ( factor 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 454 499 400 102 97 70 87 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = expression , identifier = ( ( term 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 454 499 400 102 97 70 87 78 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = expression , identifier = ( ( term - 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 454 499 400 102 97 70 87 145 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = expression , identifier = ( ( term operator 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 454 499 400 102 97 70 87 145 69 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = expression , identifier = ( ( term operator number 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 454 499 400 102 97 70 87 145 215 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = expression , identifier = ( ( term operator factor 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 454 499 400 102 97 70 87 145 214 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = expression , identifier = ( ( term operator term 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 454 499 400 102 97 70 138 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = expression , identifier = ( ( expression 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 454 499 400 102 97 70 138 192 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = expression , identifier = ( ( expression ) 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 454 499 400 102 97 68 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = expression , identifier = ( factor 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 454 499 400 102 97 87 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = expression , identifier = ( term 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 454 499 400 102 97 87 77 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = expression , identifier = ( term + 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 454 499 400 102 97 87 145 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = expression , identifier = ( term operator 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 454 499 400 102 97 87 145 69 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = expression , identifier = ( term operator number 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 454 499 400 102 97 87 145 215 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = expression , identifier = ( term operator factor 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 454 499 400 102 97 87 145 214 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = expression , identifier = ( term operator term 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 454 499 400 102 97 154 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = expression , identifier = ( expression 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 454 499 400 102 97 154 224 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = expression , identifier = ( expression ) 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 454 499 400 102 95 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = expression , identifier = factor 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 454 499 400 102 94 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = expression , identifier = term 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 454 499 400 102 94 79 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = expression , identifier = term * 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 454 499 400 102 94 152 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = expression , identifier = term operator 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 454 499 400 102 94 152 96 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = expression , identifier = term operator number 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 454 499 400 102 94 152 222 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = expression , identifier = term operator factor 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 454 499 400 102 94 152 221 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = expression , identifier = term operator term 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 454 499 400 102 157 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = expression , identifier = expression 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 454 499 399 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = expression , assignment 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 454 499 399 324 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = expression , assignment ; 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 256 322 396 454 499 548 
+# statement statement statement function type identifier ( ) { statement statement statement statement type identifier = expression , declaration 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 255 
+# statement statement statement function type identifier ( ) { statement statement statement statement declaration 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 265 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement while 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 265 330 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement while ( 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 265 330 71 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement while ( identifier 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 265 330 68 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement while ( factor 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 265 330 67 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement while ( term 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 265 330 66 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement while ( expression 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 265 330 66 133 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement while ( expression < 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 265 330 66 127 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement while ( expression operator 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 265 330 66 127 69 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement while ( expression operator number 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 265 330 66 127 68 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement while ( expression operator factor 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 265 330 66 127 87 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement while ( expression operator term 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 265 330 66 127 189 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement while ( expression operator expression 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 265 330 412 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement while ( condition 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 265 330 412 464 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement while ( condition ) 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 265 330 412 464 271 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement while ( condition ) scanf 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 265 330 412 464 271 334 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement while ( condition ) scanf ( 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 265 330 412 464 271 334 415 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement while ( condition ) scanf ( identifier 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 265 330 412 464 271 334 415 466 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement while ( condition ) scanf ( identifier ) 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 265 330 412 464 271 334 415 466 532 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement while ( condition ) scanf ( identifier ) ; 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 265 330 412 464 512 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement while ( condition ) statement 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 265 330 412 464 511 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement while ( condition ) statements 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 264 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement while_loop 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 261 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement loop 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 6 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement int 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 256 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement type 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 256 322 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement type identifier 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 256 322 396 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement type identifier = 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 256 322 396 96 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement type identifier = number 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 256 322 396 95 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement type identifier = factor 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 256 322 396 94 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement type identifier = term 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 256 322 396 454 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement type identifier = expression 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 256 322 396 454 499 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement type identifier = expression , 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 256 322 396 454 499 400 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement type identifier = expression , identifier 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 256 322 396 454 499 400 102 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement type identifier = expression , identifier = 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 256 322 396 454 499 400 102 96 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement type identifier = expression , identifier = number 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 256 322 396 454 499 400 102 95 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement type identifier = expression , identifier = factor 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 256 322 396 454 499 400 102 94 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement type identifier = expression , identifier = term 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 256 322 396 454 499 400 102 157 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement type identifier = expression , identifier = expression 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 256 322 396 454 499 399 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement type identifier = expression , assignment 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 256 322 396 454 499 399 323 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement type identifier = expression , assignment , 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 256 322 396 454 499 399 323 400 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement type identifier = expression , assignment , identifier 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 256 322 396 454 499 399 323 400 326 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement type identifier = expression , assignment , identifier ; 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 256 322 396 454 499 399 323 397 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement type identifier = expression , assignment , declaration 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 256 322 396 454 499 548 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement type identifier = expression , declaration 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 255 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement declaration 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 258 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement identifier 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 258 325 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement identifier = 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 258 325 408 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement identifier = function 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 258 325 408 460 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement identifier = function identifier 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 258 325 408 460 505 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement identifier = function identifier ( 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 258 325 408 460 505 116 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement identifier = function identifier ( identifier 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 258 325 408 460 505 113 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement identifier = function identifier ( factor 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 258 325 408 460 505 112 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement identifier = function identifier ( term 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 258 325 408 460 505 111 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement identifier = function identifier ( expression 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 258 325 408 460 505 110 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement identifier = function identifier ( argument 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 258 325 408 460 505 110 168 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement identifier = function identifier ( argument , 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 258 325 408 460 505 110 168 116 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement identifier = function identifier ( argument , identifier 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 258 325 408 460 505 110 168 113 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement identifier = function identifier ( argument , factor 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 258 325 408 460 505 110 168 112 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement identifier = function identifier ( argument , term 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 258 325 408 460 505 110 168 111 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement identifier = function identifier ( argument , expression 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 258 325 408 460 505 110 168 110 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement identifier = function identifier ( argument , argument 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 258 325 408 460 505 110 168 235 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement identifier = function identifier ( argument , arguments 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 258 325 408 460 505 551 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement identifier = function identifier ( arguments 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 258 325 408 460 505 551 594 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement identifier = function identifier ( arguments ) 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 258 325 408 460 505 551 594 631 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement identifier = function identifier ( arguments ) ; 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 258 325 407 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement identifier = function_call 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 258 325 401 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement identifier = expression 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 257 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement assignment 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 254 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement statement 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 254 272 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement statement print 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 254 272 335 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement statement print ( 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 254 272 335 71 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement statement print ( identifier 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 254 272 335 68 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement statement print ( factor 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 254 272 335 87 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement statement print ( term 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 254 272 335 416 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement statement print ( expression 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 254 272 335 416 467 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement statement print ( expression ) 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 254 272 335 416 467 533 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement statement print ( expression ) ; 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 254 254 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement statement statement 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 254 254 272 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement statement statement print 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 254 254 272 335 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement statement statement print ( 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 254 254 272 335 71 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement statement statement print ( identifier 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 254 254 272 335 68 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement statement statement print ( factor 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 254 254 272 335 87 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement statement statement print ( term 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 254 254 272 335 87 77 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement statement statement print ( term + 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 254 254 272 335 87 145 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement statement statement print ( term operator 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 254 254 272 335 87 145 71 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement statement statement print ( term operator identifier 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 254 254 272 335 87 145 215 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement statement statement print ( term operator factor 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 254 254 272 335 87 145 215 79 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement statement statement print ( term operator factor * 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 254 254 272 335 87 145 215 294 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement statement statement print ( term operator factor operator 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 254 254 272 335 87 145 215 294 364 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement statement statement print ( term operator factor operator identifier 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 254 254 272 335 87 145 215 294 361 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement statement statement print ( term operator factor operator factor 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 254 254 272 335 87 145 214 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement statement statement print ( term operator term 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 254 254 272 335 416 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement statement statement print ( expression 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 254 254 272 335 416 467 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement statement statement print ( expression ) 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 254 254 272 335 416 467 533 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement statement statement print ( expression ) ; 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 254 254 254 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement statement statement statement 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 254 254 254 269 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement statement statement statement return 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 254 254 254 269 38 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement statement statement statement return number 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 254 254 254 269 37 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement statement statement statement return factor 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 254 254 254 269 36 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement statement statement statement return term 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 254 254 254 269 332 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement statement statement statement return expression 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 254 254 254 269 332 414 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement statement statement statement return expression ; 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 254 254 254 254 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement statement statement statement statement 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 254 254 254 321 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement statement statement statement statements 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 254 254 321 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement statement statement statements 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 254 321 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement statement statements 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 254 321 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statement statements 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 254 321 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statement statements 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 254 321 
+# statement statement statement function type identifier ( ) { statement statement statement statement statement statements 
+0 3 3 3 11 30 60 108 166 233 254 254 254 254 321 
+# statement statement statement function type identifier ( ) { statement statement statement statement statements 
+0 3 3 3 11 30 60 108 166 233 254 254 254 321 
+# statement statement statement function type identifier ( ) { statement statement statement statements 
+0 3 3 3 11 30 60 108 166 233 254 254 321 
+# statement statement statement function type identifier ( ) { statement statement statements 
+0 3 3 3 11 30 60 108 166 233 254 321 
+# statement statement statement function type identifier ( ) { statement statements 
+0 3 3 3 11 30 60 108 166 233 307 
+# statement statement statement function type identifier ( ) { statements 
+0 3 3 3 11 30 60 108 166 233 307 375 
+# statement statement statement function type identifier ( ) { statements } 
+0 3 3 3 10 
+# statement statement statement function_declaration 
+0 3 3 3 3 
+# statement statement statement statement 
+0 3 3 3 24 
+# statement statement statement statements 
+0 3 3 24 
+# statement statement statements 
+0 3 24 
+# statement statements 
+0 2 
+# statements 
+0 1 
+# start 
