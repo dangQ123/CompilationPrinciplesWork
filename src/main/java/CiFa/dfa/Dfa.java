@@ -167,9 +167,6 @@ public class Dfa {
             // 对每个输入字母a do
             for (String a : SpecialList.VT) {
                 ClosureWithFlag U = E_closure(move(nfa, T.nfaNodeList, a));
-//                if (reNameListOfNfaNode(T.nfaNodeList).equals("@index")&&a.equals("digit")){
-//                    System.out.println("here");
-//                }
                 if (U.nfaNodeList.size()>0&&!isUinC(U,C)){
                     // 在这里要生成弧线
                     U.isFlag = false;
@@ -194,30 +191,13 @@ public class Dfa {
                             this.DfaNodes,Tname));
                     DfaNode Unode = new DfaNode(Uname);
                     Tnode.nextNodesList.add(new MyTuple(a,Uname));
-//                    this.DfaNodes.add(Unode);
                 }
             }
-
         }
         for (DfaNode dfaNode : this.DfaNodes) {
             if (!dfaNode.name.equals("@end"))
                 dfaNode.nextNodesList.add(new MyTuple("$","@end"));
         }
-
-
-        // 进行去重！！！
-//        for (ClosureWithFlag withFlag : C) {
-//            String s="";
-//            for (NfaNode nfaNode : withFlag.nfaNodeList) {
-//                s+=nfaNode.name;
-//                s+=" ";
-////                System.out.println(nfaNode.name+" ");
-//            }
-//            System.out.println(s);
-//        }
-
-//        this.DfaNodes =
-
     }
 
 }

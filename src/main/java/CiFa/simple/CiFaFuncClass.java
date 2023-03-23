@@ -1,6 +1,5 @@
 package CiFa.simple;
 
-import CiFa.dfa.Dfa;
 import CiFa.dfa.DfaNode;
 
 public class CiFaFuncClass {
