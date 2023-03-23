@@ -18,7 +18,6 @@ import java.util.Stack;
 public class LRTable {
     // 符号栈
     public Stack<String> SymbolStack = new Stack<>();
-
     // 状态栈
     public Stack<String> StateStack = new Stack<>();
     public String[][] Action;

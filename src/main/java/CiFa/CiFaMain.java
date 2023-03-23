@@ -124,7 +124,6 @@ public class CiFaMain {
                     if (myTuple.VT.equals(CiFaFuncClass.turnDigitAndAlphabet(c,flag))){
                         tempNode = nowPos;
                         nowPos = dfa.DfaNodes.get(dfa.findIndexByNameInDfaNodes(dfa.DfaNodes,myTuple.VN));
-//                        System.out.println(nowPos.name);
                         break;
                     }
                 }

@@ -1,5 +1,6 @@
 package Test;
 
+import CiFa.CiFaMain;
 import CiFa.dfa.Dfa;
 import CiFa.nfa.Nfa;
 import CiFa.token.Token;
@@ -19,6 +20,7 @@ import static YuFa.YuFaMain.readTokenList;
 // 一键执行类
 public class TestAll {
     public static void main(String[] args) {
+
         Nfa nfa = new Nfa("src/main/" +
                 "resources/lexical.txt");
         // 根据nfa创建dfa
